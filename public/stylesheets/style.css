@@ -1,0 +1,19 @@
+body {
+  padding: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+ul.success li{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: lightgreen;
+	background-color: darkgreen;
+	border-color: red;
+	list-style: none;
+}
